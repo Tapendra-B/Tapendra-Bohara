@@ -1,0 +1,5 @@
+{
+  "name": "Tic Tac Toe MAX",
+  "description": "A neon-styled Tic-Tac-Toe game with single and multiplayer modes, featuring a custom splash screen.",
+  "requestFramePermissions": []
+}
